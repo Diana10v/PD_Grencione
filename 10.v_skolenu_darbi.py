@@ -15,6 +15,7 @@
 #7 Kļimova Anna
 
 #8 Kokoreviča Diāna
+print(cos(radians(60)+fmod(15,2)))
 
 #9 Krastiņš Guntis
 
